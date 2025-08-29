@@ -4,7 +4,7 @@ A simple and responsive **To-Do application** built with **React + Vite**, and d
 This project helps users manage daily tasks by adding, completing, and clearing todos with a clean UI.
 
 🔗 **Live Demo:** [Click Here](https://todo-5rw0upxox-alphons-bijus-projects.vercel.app/)  
-🔗 **GitHub Repo:** [Click Here](https://github.com/your-username/todo-app)
+🔗 **GitHub Repo:** [Click Here](https://github.com/alphonsbiju7/Todo-App)
 
 ---
 
@@ -21,7 +21,6 @@ This project helps users manage daily tasks by adding, completing, and clearing 
 ## 📸 Screenshot
 ![Todo App Screenshot](./screenshot.png)  
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -36,5 +35,5 @@ This project helps users manage daily tasks by adding, completing, and clearing 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
+git clone https://github.com/alphonsbiju7/Todo-App.git
+cd Todo-App
