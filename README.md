@@ -3,7 +3,7 @@
 A simple and responsive **To-Do application** built with **React + Vite**, and deployed on **Vercel**.  
 This project helps users manage daily tasks by adding, completing, and clearing todos with a clean UI.
 
-🔗 **Live Demo:** [Click Here](https://todo-5rw0upxox-alphons-bijus-projects.vercel.app/)  
+🔗 **Live Demo:** [Click Here](https://todo-app-beta-murex.vercel.app/)  
 🔗 **GitHub Repo:** [Click Here](https://github.com/alphonsbiju7/Todo-App)
 
 ---
